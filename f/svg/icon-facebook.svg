@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EN-cards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="001-basic:-messengers" transform="translate(-80.000000, -350.000000)">
+            <g id="icon-facebook" transform="translate(80.000000, 350.000000)">
+                <rect id="Rectangle-3" fill="#0284FF" x="0" y="0" width="20" height="20" rx="4"></rect>
+                <g id="Group-14-Copy-2" transform="translate(4.000000, 4.000000)" fill="#FFFFFF">
+                    <g id="icon_messenger" transform="translate(0.333333, 0.333333)">
+                        <path d="M5.63168724,0 C2.52138683,0 0,2.34911317 0,5.24691358 C0,6.89811728 0.818938272,8.37096091 2.09876543,9.33275514 L2.09876543,11.3333333 L4.01630247,10.2744012 C4.52805144,10.4169074 5.07019753,10.4938272 5.63168724,10.4938272 C8.74198765,10.4938272 11.2633745,8.14471399 11.2633745,5.24691358 C11.2633745,2.34911317 8.74198765,0 5.63168724,0 L5.63168724,0 Z M6.19135802,7.06584362 L4.75720165,5.52674897 L1.95884774,7.06584362 L5.03703704,3.77777778 L6.50617284,5.31687243 L9.26954733,3.77777778 L6.19135802,7.06584362 L6.19135802,7.06584362 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
